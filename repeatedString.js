@@ -22,4 +22,4 @@ function repeatedString(s, n) {
     return countA;
 }
 
-console.log(repeatedString("alfalfa", 300))
+console.log(repeatedString("alfalfa", 30))
